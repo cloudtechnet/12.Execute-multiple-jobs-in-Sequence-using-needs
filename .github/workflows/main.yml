@@ -9,8 +9,8 @@ jobs:
   job1:
     runs-on: ubuntu-latest
     steps:
-      - name: Step 1 - Build
-        run: echo "Building the application..."
+      - namee: Step 1 - Build
+        runn: echo "Building the application..."
 
   job2:
     runs-on: ubuntu-latest
